@@ -1,0 +1,15 @@
+{
+  "name": "twilio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twilio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "twilio": "^5.0.0"
+  }
+}
